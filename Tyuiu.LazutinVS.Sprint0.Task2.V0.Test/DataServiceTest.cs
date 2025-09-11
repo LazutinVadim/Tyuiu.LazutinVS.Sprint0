@@ -9,10 +9,10 @@ namespace Tyuiu.LazutinVS.Sprint0.Task2.V0.Test
         [TestMethod]
         public void CheckGetMessageValid()
         {
-            var name = "Вадим";
+            var name = "Игорь";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет..., Вадим", res);
+            Assert.AreEqual("Привет, Игорь", res);
         }
     }
 }
