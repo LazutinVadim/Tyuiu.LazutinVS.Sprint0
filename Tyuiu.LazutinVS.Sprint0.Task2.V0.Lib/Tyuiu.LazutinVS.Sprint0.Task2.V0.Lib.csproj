@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>5bda805f-d313-473f-a0b0-480f29f0f14c</ProjectGuid>
+    <ProjectGuid>d1038594-79c4-42a2-bbc0-1f7a36b700ae</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tyuiu.LazutinVS.Sprint0.Task2.V0.Lib</RootNamespace>
