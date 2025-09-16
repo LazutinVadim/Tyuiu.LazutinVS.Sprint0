@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tyuiu.LazutinVS.Sprint0.Task4.V0.Lib;
-namespace Tyuiu.LazutinVS.Sprint0.Task4.V0
-{
-    internal class Program
+﻿using Tyuiu.LazutinVS.Sprint0.Task3.V0.Lib;
+internal class Program
     {
         static void Main(string[] args)
         {
@@ -17,4 +10,3 @@ namespace Tyuiu.LazutinVS.Sprint0.Task4.V0
             Console.ReadKey();
         }
     }
-}
