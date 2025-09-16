@@ -1,17 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tyuiu.LazutinVS.Sprint0.Task2.V0.Lib;
-namespace Tyuiu.LazutinVS.Sprint0.Task2.V0
+﻿using Tyuiu.LazutinVS.Sprint0.Task2.V0.Lib;
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(DataService.GetMessage("Игорь"));
-            Console.ReadKey();
-        }
+        Console.WriteLine(DataService.GetMessage("Игорь"));
+        Console.ReadKey();
     }
 }

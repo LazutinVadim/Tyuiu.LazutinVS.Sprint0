@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using Tyuiu.LazutinVS.Sprint0.Task2.V0.Lib;
+﻿using Tyuiu.LazutinVS.Sprint0.Task2.V0.Lib;
 namespace Tyuiu.LazutinVS.Sprint0.Task2.V0.Test
 {
     [TestClass]
@@ -16,3 +14,4 @@ namespace Tyuiu.LazutinVS.Sprint0.Task2.V0.Test
         }
     }
 }
+

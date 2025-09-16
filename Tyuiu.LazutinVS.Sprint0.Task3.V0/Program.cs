@@ -1,17 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tyuiu.LazutinVS.Sprint0.Task3.V0.Lib;
-namespace Tyuiu.LazutinVS.Sprint0.Task3.V0
+﻿using Tyuiu.LazutinVS.Sprint0.Task3.V0.Lib;
+internal class Program
 {
-    internal class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(DataService.Sum(7, 7));
-            Console.ReadKey();
-        }
+        Console.WriteLine(DataService.Sum(7,7));
+        Console.ReadKey();
     }
 }
